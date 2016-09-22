@@ -1,0 +1,172 @@
+
+
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\ut_amc_automation\ut_amc_automation\bin\Debug>echo off 
+###########################################################################################################################
+							Script for copying torrent file
+###########################################################################################################################
+****************************************************************************************************************************
+Initializing...
+Setting up local variables.
+****************************************************************************************************************************
+****************************************************************************************************************************
+Running script for procssing of downloaded torrent file : "Super 8 (2011)"
+****************************************************************************************************************************
+****************************************************************************************************************************
+Starting filebot script for procssing of file : "Super 8 (2011)"
+****************************************************************************************************************************
+Locking C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\amc.log
+Run script [fn:amc] at [Mon Jun 20 15:34:15 IST 2016]
+Parameter: gmail = *****
+Parameter: mailto = *****
+Parameter: pushbullet = *****
+Parameter: subtitles = en
+Parameter: music = y
+Parameter: unsorted = y
+Parameter: exec = C:/Users/AkshayKumar/Desktop/Torrent_Work/ut_config/ut_amc_delete_automation.bat
+Parameter: artwork = y
+Parameter: storeReport = y
+Parameter: reportError = y
+Parameter: ut_dir = C:\Users\AkshayKumar\Downloads\Complete\Super 8 (2011)
+Parameter: ut_file = Other\AhaShare.com.txt
+Parameter: ut_kind = multi
+Parameter: ut_title = Super 8 (2011)
+Parameter: ut_label = 
+Parameter: ut_state
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\ut_amc_automation\ut_amc_automation\bin\Debug>echo off 
+###########################################################################################################################
+							Script for copying torrent file
+###########################################################################################################################
+****************************************************************************************************************************
+Initializing...
+Setting up local variables.
+****************************************************************************************************************************
+****************************************************************************************************************************
+Running script for procssing of downloaded torrent file : "Super 8 (2011)"
+****************************************************************************************************************************
+****************************************************************************************************************************
+Starting filebot script for procssing of file : "Super 8 (2011)"
+****************************************************************************************************************************
+Locking C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\amc.log
+Run script [fn:amc] at [Mon Jun 20 16:35:36 IST 2016]
+Parameter: gmail = *****
+Parameter: mailto = *****
+Parameter: pushbullet = *****
+Parameter: subtitles = en
+Parameter: music = y
+Parameter: unsorted = y
+Parameter: exec = C:/Users/AkshayKumar/Desktop/Torrent_Work/ut_config/ut_amc_delete_automation.bat
+Parameter: artwork = y
+Parameter: storeReport = y
+Parameter: reportError = y
+Parameter: ut_dir = C:\Users\AkshayKumar\Downloads\Complete\Super 8 (2011)
+Parameter: ut_file = Other\AhaShare.com.txt
+Parameter: ut_kind = multi
+Parameter: ut_title = Super 8 (2011)
+Parameter: ut_label = 
+Parameter: ut_state
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\ut_amc_automation\ut_amc_automation\bin\Debug>echo off 
+###########################################################################################################################
+							Script for copying torrent file
+###########################################################################################################################
+****************************************************************************************************************************
+Initializing...
+Setting up local variables.
+****************************************************************************************************************************
+****************************************************************************************************************************
+Running script for procssing of downloaded torrent file : "Super 8 (2011)"
+****************************************************************************************************************************
+****************************************************************************************************************************
+Starting filebot script for procssing of file : "Super 8 (2011)"
+****************************************************************************************************************************
+Locking C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\amc.log
+Run script [fn:amc] at [Mon Jun 20 16:42:00 IST 2016]
+Parameter: gmail = *****
+Parameter: mailto = *****
+Parameter: pushbullet = *****
+Parameter: subtitles = en
+Parameter: music = y
+Parameter: unsorted = y
+Parameter: exec = C:/Users/AkshayKumar/Desktop/Torrent_Work/ut_config/ut_amc_delete_automation.bat
+Parameter: artwork = y
+Parameter: storeReport = y
+Parameter: reportError = y
+Parameter: ut_dir = C:\Users\AkshayKumar\Downloads\Complete\Super 8 (2011)
+Parameter: ut_file = Other\AhaShare.com.txt
+Parameter: ut_kind = multi
+Parameter: ut_title = Super 8 (2011)
+Parameter: ut_label = 
+Parameter: ut_state
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\ut_amc_automation\ut_amc_automation\bin\Debug>echo off 
+###########################################################################################################################
+							Script for copying torrent file
+###########################################################################################################################
+****************************************************************************************************************************
+Initializing...
+Setting up local variables.
+****************************************************************************************************************************
+****************************************************************************************************************************
+Running script for procssing of downloaded torrent file : "Supernatural.S10E09.HDTV.x264-LOL.mp4"
+****************************************************************************************************************************
+****************************************************************************************************************************
+Starting filebot script for procssing of file : "Supernatural.S10E09.HDTV.x264-LOL.mp4"
+****************************************************************************************************************************
+Locking C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\amc.log
+Run script [fn:amc] at [Fri Jun 24 03:39:50 IST 2016]
+Parameter: gmail = *****
+Parameter: mailto = *****
+Parameter: pushbullet = *****
+Parameter: subtitles = en
+Parameter: music = y
+Parameter: unsorted = y
+Parameter: exec = C:/Users/AkshayKumar/Desktop/Torrent_Work/ut_config/ut_amc_delete_automation.bat
+Parameter: artwork = y
+Parameter: storeReport = y
+Parameter: reportError = y
+Parameter: ut_dir = C:\Users\AkshayKumar\Downloads\Complete
+Parameter: ut_file = Supernatural.S10E09.HDTV.x264-LOL.mp4
+Parameter: ut_kind = single
+Parameter: ut_title = Supernatural.S10E09.HDTV.x264-LOL.mp4
+Parameter: ut_label = 
+Parameter: ut_state = 20
+Parameter: plex = localhost
+Parameter: deleteAfterExtract = y
+Parameter: clean = y
+Parameter: excludeList = amc-input.txt
+Parameter: seriesFormat = G:/Media1/TV Shows/{n}/Season {s.pad(2)}/{n} - {s00e00} - {t}
+Parameter: animeFormat = G:/Media1/Anime/{n} - {s00e00} - {t}
+Parameter: movieFormat = G:/Media1/New Films/{n} ({y})/{fn}
+Parameter: musicFormat = G:/Media1/Music/{n}/{album+'/'}{pi.pad(2)+'. '}{artist} - {t}
+Using excludes: G:\Media1\amc-input.txt (455)
+Input: C:\Users\AkshayKumar\Downloads\Complete\Supernatural.S10E09.HDTV.x264-LOL.mp4
+Group: [tvs:supernatural] => [Supernatural.S10E09.HDTV.x264-LOL.mp4]
+Get [English] subtitles for 1 files
+Looking up subtitles by hash via OpenSubtitles
+Fetching [English] subtitles [Supernatural.S10E09.720p.HDTV.X264-DIMENSION.srt] from [OpenSubtitles]
+Failed to download Supernatural.S10E09.720p.HDTV.X264-DIMENSION.srt: connect timed out
+No matching subtitles found: C:\Users\AkshayKumar\Downloads\Complete\Supernatural.S10E09.HDTV.x264-LOL.mp4
+Rename episodes using [TheTVDB]
+Auto-detected query: [Supernatural]
+Fetching episode data for [Supernatural]
+Fetching episode data for [The Supernatural (1977)]
+Fetching episode data for [Supernatural the Animation]
+[TEST] Rename [C:\Users\AkshayKumar\Downloads\Complete\Supernatural.S10E09.HDTV.x264-LOL.mp4] to [G:\Media1\TV Shows\Supernatural\Season 10\Supernatural - S10E09 - The Things We Left Behind.mp4]
+Processed 1 files
+Execute: C:/Users/AkshayKumar/Desktop/Torrent_Work/ut_config/ut_amc_delete_automation.bat
+
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\ut_amc_automation\ut_amc_automation\bin\Debug>echo off 
+###########################################################################################################################
+					Script for removing finished torrent file
+###########################################################################################################################
+****************************************************************************************************************************
+Running script for removing finished torrent file : "Supernatural.S10E09.HDTV.x264-LOL.mp4"
+****************************************************************************************************************************
+****************************************************************************************************************************
+Entering FINISH block ::
+****************************************************************************************************************************
+Email sent successfully.
+****************************************************************************************************************************
+Exiting FINISH block ::
+****************************************************************************************************************************
+Notify Plex: localhost
+GET: http://localhost:32400/library/sections/all/refresh
+Saving report as C:\Users\A

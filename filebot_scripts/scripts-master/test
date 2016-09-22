@@ -1,0 +1,8 @@
+def pushbullet=o.hPQwUc0iauq8BzOFsArEXe8QLphYI9SS
+    // send pushbullet report
+    if (pushbullet) {
+        log.info 'Sending PushBullet report'
+        tryLogCatch {
+            PushBullet(pushbullet).sendFile(getNotificationTitle(), getReportMessage(), 'text/html', getNotificationMessage(), tryQuietly{ mailto })
+        }
+    }

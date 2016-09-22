@@ -1,0 +1,4 @@
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\ut_amc_automation\ut_amc_automation\bin\Debug\ut_amc_automation.exe
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\ut_amc_automation\ut_amc_automation\bin\Debug\ut_amc_automation.pdb
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\ut_amc_automation\ut_amc_automation\obj\x86\Debug\ut_amc_automation.exe
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\ut_amc_automation\ut_amc_automation\obj\x86\Debug\ut_amc_automation.pdb

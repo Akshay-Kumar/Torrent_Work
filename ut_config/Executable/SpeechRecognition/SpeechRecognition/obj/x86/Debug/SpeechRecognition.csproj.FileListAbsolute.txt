@@ -1,0 +1,7 @@
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\SpeechRecognition\SpeechRecognition\obj\x86\Debug\SpeechRecognition.Form1.resources
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\SpeechRecognition\SpeechRecognition\obj\x86\Debug\SpeechRecognition.Properties.Resources.resources
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\SpeechRecognition\SpeechRecognition\obj\x86\Debug\SpeechRecognition.csproj.GenerateResource.Cache
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\SpeechRecognition\SpeechRecognition\obj\x86\Debug\SpeechRecognition.exe
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\SpeechRecognition\SpeechRecognition\obj\x86\Debug\SpeechRecognition.pdb

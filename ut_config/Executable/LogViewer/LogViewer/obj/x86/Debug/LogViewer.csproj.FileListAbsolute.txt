@@ -1,0 +1,16 @@
+D:\LogViewer\LogViewer\LogViewer\obj\x86\Debug\LiveLogViewer.MainForm.resources
+D:\LogViewer\LogViewer\LogViewer\obj\x86\Debug\LogViewer.Properties.Resources.resources
+D:\LogViewer\LogViewer\LogViewer\obj\x86\Debug\LiveLogViewer.SearchBox.resources
+D:\LogViewer\LogViewer\LogViewer\obj\x86\Debug\LogViewer.csproj.GenerateResource.Cache
+D:\LogViewer\LogViewer\LogViewer\bin\Debug\LogViewer.exe
+D:\LogViewer\LogViewer\LogViewer\bin\Debug\LogViewer.pdb
+D:\LogViewer\LogViewer\LogViewer\obj\x86\Debug\LogViewer.exe
+D:\LogViewer\LogViewer\LogViewer\obj\x86\Debug\LogViewer.pdb
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\LogViewer\LogViewer\obj\x86\Debug\LogViewer.exe
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\LogViewer\LogViewer\obj\x86\Debug\LogViewer.pdb
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\LogViewer\LogViewer\bin\Debug\LogViewer.exe
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\LogViewer\LogViewer\bin\Debug\LogViewer.pdb
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\LogViewer\LogViewer\obj\x86\Debug\LiveLogViewer.MainForm.resources
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\LogViewer\LogViewer\obj\x86\Debug\LogViewer.Properties.Resources.resources
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\LogViewer\LogViewer\obj\x86\Debug\LiveLogViewer.SearchBox.resources
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\LogViewer\LogViewer\obj\x86\Debug\LogViewer.csproj.GenerateResource.Cache

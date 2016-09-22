@@ -1,0 +1,4 @@
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\Newsfeed\Newsfeed\bin\Debug\Newsfeed.exe
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\Newsfeed\Newsfeed\bin\Debug\Newsfeed.pdb
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\Newsfeed\Newsfeed\obj\x86\Debug\Newsfeed.exe
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\Newsfeed\Newsfeed\obj\x86\Debug\Newsfeed.pdb

@@ -1,0 +1,1 @@
+filebot -script C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\filebot_scripts\scripts-master\notification.groovy --def pushbullet="o.hPQwUc0iauq8BzOFsArEXe8QLphYI9SS" --def title="%~1" --def message="%~2" --def messageNotification="%~3"

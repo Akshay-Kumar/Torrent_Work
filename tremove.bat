@@ -1,0 +1,1 @@
+call C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -executionpolicy unrestricted -file "C:\Users\AkshayKumar\Desktop\Torrent_Work\remove_torrent.ps1" %1 %2 %3 %4

@@ -1,0 +1,4 @@
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\Filecopy\Filecopy\bin\Debug\Filecopy.exe
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\Filecopy\Filecopy\bin\Debug\Filecopy.pdb
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\Filecopy\Filecopy\obj\x86\Debug\Filecopy.exe
+C:\Users\AkshayKumar\Desktop\Torrent_Work\ut_config\Executable\Filecopy\Filecopy\obj\x86\Debug\Filecopy.pdb

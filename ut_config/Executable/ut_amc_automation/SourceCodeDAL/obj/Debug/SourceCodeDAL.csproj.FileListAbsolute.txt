@@ -1,0 +1,43 @@
+C:\Users\AKSHAY\Desktop\TABLE_SCRIPT_SOURCE_CODE_DB\SourceCode_V3.2\SourceCodeDAL\bin\Debug\SourceCodeDAL.dll
+C:\Users\AKSHAY\Desktop\TABLE_SCRIPT_SOURCE_CODE_DB\SourceCode_V3.2\SourceCodeDAL\bin\Debug\SourceCodeDAL.pdb
+C:\Users\AKSHAY\Desktop\TABLE_SCRIPT_SOURCE_CODE_DB\SourceCode_V3.2\SourceCodeDAL\bin\Debug\Logger.dll
+C:\Users\AKSHAY\Desktop\TABLE_SCRIPT_SOURCE_CODE_DB\SourceCode_V3.2\SourceCodeDAL\bin\Debug\SourceCodeBL.dll
+C:\Users\AKSHAY\Desktop\TABLE_SCRIPT_SOURCE_CODE_DB\SourceCode_V3.2\SourceCodeDAL\bin\Debug\SourceCodeBL.pdb
+C:\Users\AKSHAY\Desktop\TABLE_SCRIPT_SOURCE_CODE_DB\SourceCode_V3.2\SourceCodeDAL\bin\Debug\Logger.pdb
+C:\Users\AKSHAY\Desktop\TABLE_SCRIPT_SOURCE_CODE_DB\SourceCode_V3.2\SourceCodeDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AKSHAY\Desktop\TABLE_SCRIPT_SOURCE_CODE_DB\SourceCode_V3.2\SourceCodeDAL\obj\Debug\SourceCodeDAL.dll
+C:\Users\AKSHAY\Desktop\TABLE_SCRIPT_SOURCE_CODE_DB\SourceCode_V3.2\SourceCodeDAL\obj\Debug\SourceCodeDAL.pdb
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\SourceCode\SourceCodeDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\SourceCode\SourceCodeDAL\bin\Debug\SourceCodeDAL.dll
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\SourceCode\SourceCodeDAL\bin\Debug\SourceCodeDAL.pdb
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\SourceCode\SourceCodeDAL\bin\Debug\Logger.dll
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\SourceCode\SourceCodeDAL\bin\Debug\Monitor.exe
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\SourceCode\SourceCodeDAL\bin\Debug\SourceCodeBL.dll
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\SourceCode\SourceCodeDAL\bin\Debug\FastColoredTextBox.dll
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\SourceCode\SourceCodeDAL\bin\Debug\NotificationWindow.dll
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\SourceCode\SourceCodeDAL\bin\Debug\Monitor.pdb
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\SourceCode\SourceCodeDAL\bin\Debug\FastColoredTextBox.pdb
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\SourceCode\SourceCodeDAL\bin\Debug\FastColoredTextBox.xml
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\SourceCode\SourceCodeDAL\bin\Debug\SourceCodeBL.pdb
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\SourceCode\SourceCodeDAL\bin\Debug\NotificationWindow.pdb
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\SourceCode\SourceCodeDAL\bin\Debug\Logger.pdb
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\SourceCode\SourceCodeDAL\obj\Debug\SourceCodeDAL.dll
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\SourceCode\SourceCodeDAL\obj\Debug\SourceCodeDAL.pdb
+D:\SourceCode_V6.1\SourceCodeDAL\bin\Debug\SourceCodeDAL.dll
+D:\SourceCode_V6.1\SourceCodeDAL\bin\Debug\SourceCodeDAL.pdb
+D:\SourceCode_V6.1\SourceCodeDAL\bin\Debug\Logger.dll
+D:\SourceCode_V6.1\SourceCodeDAL\bin\Debug\Monitor.exe
+D:\SourceCode_V6.1\SourceCodeDAL\bin\Debug\SourceCodeBL.dll
+D:\SourceCode_V6.1\SourceCodeDAL\bin\Debug\FastColoredTextBox.dll
+D:\SourceCode_V6.1\SourceCodeDAL\bin\Debug\NotificationWindow.dll
+D:\SourceCode_V6.1\SourceCodeDAL\bin\Debug\Monitor.pdb
+D:\SourceCode_V6.1\SourceCodeDAL\bin\Debug\SourceCodeBL.pdb
+D:\SourceCode_V6.1\SourceCodeDAL\bin\Debug\Logger.pdb
+D:\SourceCode_V6.1\SourceCodeDAL\bin\Debug\FastColoredTextBox.pdb
+D:\SourceCode_V6.1\SourceCodeDAL\bin\Debug\FastColoredTextBox.xml
+D:\SourceCode_V6.1\SourceCodeDAL\bin\Debug\NotificationWindow.pdb
+D:\SourceCode_V6.1\SourceCodeDAL\obj\Debug\SourceCodeDAL.csprojResolveAssemblyReference.cache
+D:\SourceCode_V6.1\SourceCodeDAL\obj\Debug\SourceCodeDAL.dll
+D:\SourceCode_V6.1\SourceCodeDAL\obj\Debug\SourceCodeDAL.pdb
+C:\Users\AkshayKumar\Desktop\movie\MovieLibrary\SourceCodeDAL\obj\Debug\SourceCodeDAL.csprojResolveAssemblyReference.cache
+C:\Users\AkshayKumar\Desktop\movie\MovieLibrary\SourceCodeDAL\obj\Debug\SourceCodeDAL.pdb

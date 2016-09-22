@@ -1,0 +1,53 @@
+*********************************************
+Run on 12-06-2016 at  0:47:33.77
+Input: "C:\Users\AkshayKumar\Downloads\" "[BrazzersExxtra] Cherie Deville (ZZ Erection 2016 - Part 1 - 10.06.16) rq (1k).mp4" "" "single" "[BrazzersExxtra] Cherie Deville (ZZ Erection 2016 - Part 1 - 10.06.16) rq (1k).mp4"
+label_prefix = ""
+Copy "[BrazzersExxtra] Cherie Deville (ZZ Erection 2016 - Part 1 - 10.06.16) rq (1k).mp4" from "C:\Users\AkshayKumar\Downloads\" to G:\__"[BrazzersExxtra] Cherie Deville (ZZ Erection 2016 - Part 1 - 10.06.16) rq (1k).mp4"
+0 File(s) copied
+C:\Users\AkshayKumar\Desktop\Torrent_Work\TorrentFinished.ps1 : Cannot process 
+argument because the value of argument "name" is not valid. Change the value 
+of the "name" argument and run the operation again.
+    + CategoryInfo          : InvalidArgument: (:) [TorrentFinished.ps1], PSAr 
+   gumentException
+    + FullyQualifiedErrorId : Argument,TorrentFinished.ps1
+ 
+*********************************************
+Run on 12-06-2016 at  2:50:35.80
+Input: "C:\Users\AkshayKumar\Downloads\" "Gucci Mane - Back On Road (feat. Drake).mp3" "" "single" "Gucci Mane - Back On Road (feat. Drake).mp3" "5" "125D2E46B794F9557BF414E6B20572BDCBB736B7" "Initial-Seeding" "5"
+label_prefix = ""
+Copy "Gucci Mane - Back On Road (feat. Drake).mp3" from "C:\Users\AkshayKumar\Downloads\" to 
+0 File(s) copied
+C:\Users\AkshayKumar\Desktop\Torrent_Work\TorrentFinished.ps1 : Cannot process 
+argument because the value of argument "name" is not valid. Change the value 
+of the "name" argument and run the operation again.
+    + CategoryInfo          : InvalidArgument: (:) [TorrentFinished.ps1], PSAr 
+   gumentException
+    + FullyQualifiedErrorId : Argument,TorrentFinished.ps1
+ 
+*********************************************
+Run on 12-06-2016 at  3:10:37.95
+Input: "C:\Users\AkshayKumar\Downloads\50_Cent_-_The_Kanan_Tape-[320Kbps]-[2015]-[Official]--(MixJoint.com)" "50_Cent_-_The_Kanan_Tape-[320Kbps]-[2015]-[Official]--(MixJoint.com)" "" "multi" "00-back.jpg" "5" "6375A9142712EF000833FFA1DB63C49FF5BF486A" "Initial-Seeding" "5"
+label_prefix = ""
+**Music
+Copy all mp3s from "C:\Users\AkshayKumar\Downloads\50_Cent_-_The_Kanan_Tape-[320Kbps]-[2015]-[Official]--(MixJoint.com)" and subdirs to G:\Music\"50_Cent_-_The_Kanan_Tape-[320Kbps]-[2015]-[Official]--(MixJoint.com)"
+C:\Users\AkshayKumar\Downloads\50_Cent_-_The_Kanan_Tape-[320Kbps]-[2015]-[Official]--(MixJoint.com)\01_-_Nigga_Nigga_Ft_Lil_Boosie_And_Young_Buck_(Prod_By_Bandplay)--(MixJoint.com).mp3
+C:\Users\AkshayKumar\Downloads\50_Cent_-_The_Kanan_Tape-[320Kbps]-[2015]-[Official]--(MixJoint.com)\02_-_Too_Rich_For_The_Bitch_(Prod_By_London_On_Da_Track)--(MixJoint.com).mp3
+C:\Users\AkshayKumar\Downloads\50_Cent_-_The_Kanan_Tape-[320Kbps]-[2015]-[Official]--(MixJoint.com)\03_-_Body_Bags_(Prod_By_Alchemist)--(MixJoint.com).mp3
+C:\Users\AkshayKumar\Downloads\50_Cent_-_The_Kanan_Tape-[320Kbps]-[2015]-[Official]--(MixJoint.com)\04_-_Tryna_Fuck_Me_Over_Ft_Post_Malone_(Prod_By_Scoop_Deville)--(MixJoint.com).mp3
+C:\Users\AkshayKumar\Downloads\50_Cent_-_The_Kanan_Tape-[320Kbps]-[2015]-[Official]--(MixJoint.com)\05_-_Im_The_Man_Ft_Sonny_Digital_(Prod_By_Sonny_Digital)--(MixJoint.com).mp3
+C:\Users\AkshayKumar\Downloads\50_Cent_-_The_Kanan_Tape-[320Kbps]-[2015]-[Official]--(MixJoint.com)\06_-_Burner_On_Me_(Prod_By_Colt_45)--(MixJoint.com).mp3
+C:\Users\AkshayKumar\Downloads\50_Cent_-_The_Kanan_Tape-[320Kbps]-[2015]-[Official]--(MixJoint.com)\07_-_On_Everything_(Prod_By_Illmind)--(MixJoint.com).mp3
+7 File(s) copied
+*********************************************
+Run on 12-06-2016 at  3:32:10.76
+Input: "C:\Users\AkshayKumar\Downloads\" "[BigWetButts] Luna Star (Luna Loves Anal - 09.06.16) rq (1k).mp4" "" "single" "[BigWetButts] Luna Star (Luna Loves Anal - 09.06.16) rq (1k).mp4" "8" "05D0ACC3A501CA2F6C7533C380E69BDD22482964" "[F] Initial-Seeding" "8"
+label_prefix = ""
+Copy "[BigWetButts] Luna Star (Luna Loves Anal - 09.06.16) rq (1k).mp4" from "C:\Users\AkshayKumar\Downloads\" to 
+0 File(s) copied
+C:\Users\AkshayKumar\Desktop\Torrent_Work\TorrentFinished.ps1 : Cannot process 
+argument because the value of argument "name" is not valid. Change the value 
+of the "name" argument and run the operation again.
+    + CategoryInfo          : InvalidArgument: (:) [TorrentFinished.ps1], PSAr 
+   gumentException
+    + FullyQualifiedErrorId : Argument,TorrentFinished.ps1
+ 

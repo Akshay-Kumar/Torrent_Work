@@ -1,0 +1,1 @@
+C:\Users\AkshayKumar\Desktop\Torrent_Work\torrent_file_utility.bat "%F" "%D" "%N" "%P" "%L" "%I" "%M" "%S" "%K" >> C:\Users\AkshayKumar\Desktop\Torrent_Work\logs\torrentlog.txt
